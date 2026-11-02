@@ -1,27 +1,21 @@
-# FAST Survival Kit
+<div align="center">
 
-Study material for FAST BSCS students: lecture notes, assignments, quizzes, and past papers, organized by semester.
+# 🎓 FAST Survival Kit
 
-## Structure
+**Notes, assignments, quizzes, and past papers for FAST BSCS, organized by semester.**
 
-BSCS/
-├── Sem1/
-├── Sem2/
-├── Sem3/
-├── Sem4/
-├── Sem5/
-├── Sem6/
-├── Sem7/
-└── Sem8/
+![Semesters](https://img.shields.io/badge/Semesters-1--8-blue)
+![Degree](https://img.shields.io/badge/Degree-BSCS-green)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-Each semester folder has one folder per course, and each course has: Lectures, Assignments, Quizzes, Past-Papers.
+</div>
 
-## Contributing
+---
 
-1. Put files in the right semester and course folder.
-2. Use clear names, like `Lecture01-Intro.pdf` or `Assignment2-Solution.pdf`.
-3. Don't upload copyrighted books or anything the university prohibits sharing.
+## 📖 About
 
-## Disclaimer
+University is easier when you're not starting from scratch. This repo collects study material for FAST BSCS students in one place, so you can find what you need quickly instead of digging through old group chats.
 
-This is a student-run resource and is not affiliated with FAST-NUCES. Use it for reference and learning.
+Built by students, for students.
+
+## 📂 Structure
